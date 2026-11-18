@@ -1,7 +1,7 @@
-# Hallo, ich bin Ünal
+# Hi, ich bin Ünal
 
-Ich suche einen Ausbildungsplatz in der IT und interessiere mich besonders für Softwareentwicklung. Programmieren lerne ich unter anderem mit Spielen. Meine ersten Browserprojekte waren ein [Zahlenratespiel](https://github.com/UnalTS/zahlenraten) und ein [Reaktionstest](https://github.com/UnalTS/reaktionstest), beide in JavaScript.
+Ich programmiere kleine Spiele. Angefangen habe ich mit einem [Zahlenratespiel](https://github.com/UnalTS/zahlenraten) und einem [Reaktionstest](https://github.com/UnalTS/reaktionstest) in JavaScript.
 
-Inzwischen gibt es meine [Mini Arcade](https://github.com/UnalTS/mini-arcade) mit vier Spielen, gebaut mit React und TypeScript. Bei Sudoku fand ich eine Frage besonders interessant. Woher weiß das Programm, dass ein Rätsel genau eine Lösung hat? Das prüft es bei jedem neuen Rätsel, bevor man die erste Zahl einträgt. [Mini Arcade im Browser ausprobieren](https://unalts.github.io/mini-arcade/)
+In meiner Mini Arcade kannst du Sudoku, Minesweeper, Nonogramm und Snake spielen. Dafür habe ich React und TypeScript benutzt. [Spielen](https://unalts.github.io/mini-arcade/) · [Code ansehen](https://github.com/UnalTS/mini-arcade)
 
-Mit [Vier gewinnt](https://github.com/UnalTS/vier-gewinnt) habe ich auch ein Desktopspiel in Java umgesetzt. Die Oberfläche und die Spielregeln sind getrennt. So kann ich zum Beispiel mit einem Test eine Partie Zug für Zug durchspielen und prüfen, ob das Spiel einen diagonalen Sieg erkennt.
+[Vier gewinnt](https://github.com/UnalTS/vier-gewinnt) habe ich in Java geschrieben. Das kannst du zu zweit an einem Rechner spielen.
