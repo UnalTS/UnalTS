@@ -5,3 +5,5 @@ Ich lerne Webentwicklung, indem ich Spiele für den Browser baue. Angefangen hab
 Mein bisher größtes Projekt hier ist die **Mini Arcade** mit React und TypeScript. Bei Sudoku steckt ein Großteil der Arbeit schon vor dem ersten Zug im Spiel: Der Browser erzeugt ein Rätsel und prüft, ob es genau eine Lösung hat. Wer lieber direkt loslegt, kann auch eine Runde Snake spielen.
 
 [Mini Arcade spielen](https://unalts.github.io/mini-arcade/) · [Quellcode und Tests ansehen](https://github.com/UnalTS/mini-arcade)
+
+Für mein Java-Spiel bin ich vom Browser auf den Desktop gewechselt. Bei [Vier gewinnt](https://github.com/UnalTS/vier-gewinnt) spielen zwei Personen am selben Rechner. Die Spielregeln lassen sich unabhängig vom Swing-Fenster testen.
