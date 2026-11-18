@@ -1,9 +1,7 @@
-# Hallo, ich bin Ünal.
+# Hallo, ich bin Ünal
 
-Ich lerne Webentwicklung, indem ich Spiele für den Browser baue. Angefangen habe ich mit kleinen JavaScript-Projekten wie [Zahlenraten](https://github.com/UnalTS/zahlenraten) und einem [Reaktionstest](https://github.com/UnalTS/reaktionstest).
+Ich suche einen Ausbildungsplatz in der IT und interessiere mich besonders für Softwareentwicklung. Programmieren lerne ich unter anderem mit Spielen. Meine ersten Browserprojekte waren ein [Zahlenratespiel](https://github.com/UnalTS/zahlenraten) und ein [Reaktionstest](https://github.com/UnalTS/reaktionstest), beide in JavaScript.
 
-Mein bisher größtes Projekt hier ist die **Mini Arcade** mit React und TypeScript. Bei Sudoku steckt ein Großteil der Arbeit schon vor dem ersten Zug im Spiel: Der Browser erzeugt ein Rätsel und prüft, ob es genau eine Lösung hat. Wer lieber direkt loslegt, kann auch eine Runde Snake spielen.
+Inzwischen gibt es meine [Mini Arcade](https://github.com/UnalTS/mini-arcade) mit vier Spielen, gebaut mit React und TypeScript. Bei Sudoku fand ich eine Frage besonders interessant. Woher weiß das Programm, dass ein Rätsel genau eine Lösung hat? Das prüft es bei jedem neuen Rätsel, bevor man die erste Zahl einträgt. [Mini Arcade im Browser ausprobieren](https://unalts.github.io/mini-arcade/)
 
-[Mini Arcade spielen](https://unalts.github.io/mini-arcade/) · [Quellcode und Tests ansehen](https://github.com/UnalTS/mini-arcade)
-
-Für mein Java-Spiel bin ich vom Browser auf den Desktop gewechselt. Bei [Vier gewinnt](https://github.com/UnalTS/vier-gewinnt) spielen zwei Personen am selben Rechner. Die Spielregeln lassen sich unabhängig vom Swing-Fenster testen.
+Mit [Vier gewinnt](https://github.com/UnalTS/vier-gewinnt) habe ich auch ein Desktopspiel in Java umgesetzt. Die Oberfläche und die Spielregeln sind getrennt. So kann ich zum Beispiel mit einem Test eine Partie Zug für Zug durchspielen und prüfen, ob das Spiel einen diagonalen Sieg erkennt.
